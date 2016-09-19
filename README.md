@@ -1,3 +1,3 @@
-<h2>ScrawlBoard</h2>
+<h1>ScrawlBoard</h1>
 <br>
-<h1>This is a ScrawBoard that using sql to storage scraw.</h1>
+<h2>This is a ScrawBoard that using sql to storage scraw.</h2>
